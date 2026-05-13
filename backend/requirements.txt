@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+python-dotenv==1.0.1
+langchain-huggingface
+langchain-community
+langchain-core
+langchain-openai
+langchain
+qdrant-client
+langchain-qdrant
+sentence-transformers==2.7.0
+sqlalchemy

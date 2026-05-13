@@ -1,0 +1,8 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+chat_history.db
+dist/
+build/
+.DS_Store
